@@ -24,22 +24,6 @@
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali-linux" width="50" height="50"/> 
   </a>
-  <!-- Metasploit -->
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.metasploit.com/images/favicon.ico" alt="metasploit" width="50" height="50"/> 
-  </a>
-  <!-- Nmap -->
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://nmap.org/shared/images/small/nmap-logo-64.png" alt="nmap" width="50" height="50"/> 
-  </a>
-  <!-- Burp Suite -->
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://portswigger.net/favicon.ico" alt="burp-suite" width="50" height="50"/> 
-  </a>
-  <!-- SQLmap -->
-  <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="50" height="50"/> 
-  </a>
 </p>
 
 <h3 align="left">Support:</h3>
