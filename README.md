@@ -22,39 +22,39 @@
 <p align="left"> 
   <!-- Kali Linux -->
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali-linux" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali-linux" width="50" height="50"/> 
   </a>
   <!-- Metasploit -->
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Metasploit_logo.svg" alt="metasploit" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Metasploit_logo.svg" alt="metasploit" width="50" height="50"/> 
   </a>
   <!-- Wireshark -->
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.svg" alt="wireshark" width="50" height="50"/> 
   </a>
   <!-- Nmap -->
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Nmap_logo.svg" alt="nmap" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Nmap_logo.svg" alt="nmap" width="50" height="50"/> 
   </a>
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/BurpSuite_Logo.svg" alt="burp-suite" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/43530568?s=280&v=4" alt="burp-suite" width="50" height="50"/> 
   </a>
   <!-- John the Ripper -->
   <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/John_the_Ripper_Logo.svg" alt="john-the-ripper" width="40" height="40"/> 
+    <img src="https://www.openwall.com/john/john-logo.png" alt="john-the-ripper" width="50" height="50"/> 
   </a>
   <!-- Hydra -->
   <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Hydra-GNU-Linux.svg" alt="hydra" width="40" height="40"/> 
+    <img src="https://www.kitploit.com/favicon.ico" alt="hydra" width="50" height="50"/> 
   </a>
   <!-- Aircrack-ng -->
   <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Aircrack-ng_logo.svg" alt="aircrack-ng" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Aircrack-ng_logo.svg" alt="aircrack-ng" width="50" height="50"/> 
   </a>
   <!-- SQLmap -->
   <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Sqlmap_logo.svg" alt="sqlmap" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Sqlmap_logo.svg" alt="sqlmap" width="50" height="50"/> 
   </a>
 </p>
 
