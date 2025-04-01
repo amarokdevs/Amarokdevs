@@ -30,7 +30,7 @@
   </a>
   <!-- Wireshark -->
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.svg" alt="wireshark" width="50" height="50"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Wireshark_Logo_2020.svg" alt="wireshark" width="50" height="50"/> 
   </a>
   <!-- Nmap -->
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
@@ -38,15 +38,15 @@
   </a>
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/43530568?s=280&v=4" alt="burp-suite" width="50" height="50"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Burp_Suite_Logo.svg" alt="burp-suite" width="50" height="50"/> 
   </a>
   <!-- John the Ripper -->
   <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.openwall.com/john/john-logo.png" alt="john-the-ripper" width="50" height="50"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/John_the_Ripper_logo.png" alt="john-the-ripper" width="50" height="50"/> 
   </a>
   <!-- Hydra -->
   <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer"> 
-    <img src="https://www.kitploit.com/favicon.ico" alt="hydra" width="50" height="50"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Hydra_logo.png" alt="hydra" width="50" height="50"/> 
   </a>
   <!-- Aircrack-ng -->
   <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"> 
