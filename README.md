@@ -20,23 +20,23 @@
 
 <h3 align="left">Ethical Hacking Tools:</h3>
 <p align="left"> 
-  <!-- Kali Linux (Working) -->
+  <!-- Kali Linux (Official) -->
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali-linux" width="50" height="50"/> 
   </a>
-  <!-- Metasploit (New Link) -->
+  <!-- Metasploit (GitHub User-Uploaded) -->
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Metasploit_logo.svg" alt="metasploit" width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/documentation/images/metasploit-logo.png" alt="metasploit" width="50" height="50"/> 
   </a>
-  <!-- Nmap (New Link) -->
+  <!-- Nmap (Reliable Wiki Source) -->
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Nmap_logo.svg" alt="nmap" width="50" height="50"/> 
+    <img src="https://nmap.org/images/nmap-logo.png" alt="nmap" width="50" height="50"/> 
   </a>
-  <!-- Burp Suite (New Link) -->
+  <!-- Burp Suite (Direct Host from PortSwigger) -->
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/43530568?s=280&v=4" alt="burp-suite" width="50" height="50"/> 
+    <img src="https://portswigger.net/cms/images/1d/36/7a738227f524-article-main-burp-suite-logo.png" alt="burp-suite" width="50" height="50"/> 
   </a>
-  <!-- SQLmap (Working) -->
+  <!-- SQLmap (Official from Kali) -->
   <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="50" height="50"/> 
   </a>
