@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="MasterHead">)
+<img src="https://imgur.com/gallery/ive-been-gone-little-while-what-did-i-miss-FvgOlSh" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Amarokdevs</h1>
 <h3 align="center">A Certified Ethical Hacker</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
