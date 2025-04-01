@@ -18,7 +18,7 @@
 <a href="https://www.youtube.com/c/amarokdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amarokdevs" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Ethical Hacking Tools:</h3>
+<h3 align="left">System :</h3>
 <p align="left"> 
   <!-- Kali Linux -->
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
