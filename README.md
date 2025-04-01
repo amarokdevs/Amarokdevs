@@ -26,15 +26,15 @@
   </a>
   <!-- Metasploit -->
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/images/msf-logo.svg" alt="metasploit" width="50" height="50"/> 
+    <img src="https://www.metasploit.com/images/favicon.ico" alt="metasploit" width="50" height="50" onerror="this.src='https://via.placeholder.com/50?text=Metasploit';"/> 
   </a>
   <!-- Nmap -->
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://nmap.org/images/nmap-logo.svg" alt="nmap" width="50" height="50"/> 
+    <img src="https://nmap.org/shared/images/small/nmap-logo-64.png" alt="nmap" width="50" height="50" onerror="this.src='https://via.placeholder.com/50?text=Nmap';"/> 
   </a>
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://portswigger.net/cms/images/OG-image-Burp-Suite.png" alt="burp-suite" width="50" height="50"/> 
+    <img src="https://portswigger.net/favicon.ico" alt="burp-suite" width="50" height="50" onerror="this.src='https://via.placeholder.com/50?text=Burp+Suite';"/> 
   </a>
   <!-- SQLmap -->
   <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> 
