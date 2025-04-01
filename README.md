@@ -20,23 +20,23 @@
 
 <h3 align="left">Ethical Hacking Tools:</h3>
 <p align="left"> 
-  <!-- Kali Linux -->
+  <!-- Kali Linux (Working) -->
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali-linux" width="50" height="50"/> 
   </a>
-  <!-- Metasploit -->
+  <!-- Metasploit (New Link) -->
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.offsec.com/wp-content/uploads/2023/01/metasploit-logo.png" alt="metasploit" width="50" height="50"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Metasploit_logo.svg" alt="metasploit" width="50" height="50"/> 
   </a>
-  <!-- Nmap -->
+  <!-- Nmap (New Link) -->
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://nmap.org/images/nmap-logo.png" alt="nmap" width="50" height="50"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Nmap_logo.svg" alt="nmap" width="50" height="50"/> 
   </a>
-  <!-- Burp Suite -->
+  <!-- Burp Suite (New Link) -->
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://www.proteansec.com/wp-content/uploads/2017/04/Burp-Suite-logo.png" alt="burp-suite" width="50" height="50"/> 
+    <img src="https://avatars.githubusercontent.com/u/43530568?s=280&v=4" alt="burp-suite" width="50" height="50"/> 
   </a>
-  <!-- SQLmap -->
+  <!-- SQLmap (Working) -->
   <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="50" height="50"/> 
   </a>
