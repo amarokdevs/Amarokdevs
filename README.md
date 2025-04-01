@@ -22,19 +22,19 @@
 <p align="left"> 
   <!-- Kali Linux -->
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali-linux" width="50" height="50"/> 
+    <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali-linux" width="50" height="50"/> 
   </a>
   <!-- Metasploit -->
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Metasploit_logo.svg" alt="metasploit" width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/images/msf-logo.svg" alt="metasploit" width="50" height="50"/> 
   </a>
   <!-- Nmap -->
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Nmap_logo.svg" alt="nmap" width="50" height="50"/> 
+    <img src="https://nmap.org/images/nmap-logo.svg" alt="nmap" width="50" height="50"/> 
   </a>
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Burp_Suite_Logo.svg" alt="burp-suite" width="50" height="50"/> 
+    <img src="https://portswigger.net/cms/images/OG-image-Burp-Suite.png" alt="burp-suite" width="50" height="50"/> 
   </a>
   <!-- SQLmap -->
   <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> 
