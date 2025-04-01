@@ -26,35 +26,19 @@
   </a>
   <!-- Metasploit -->
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Metasploit_logo.svg" alt="metasploit" width="50" height="50"/> 
-  </a>
-  <!-- Wireshark -->
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Wireshark_Logo_2020.svg" alt="wireshark" width="50" height="50"/> 
+    <img src="https://www.offsec.com/wp-content/uploads/2023/01/metasploit-logo.png" alt="metasploit" width="50" height="50"/> 
   </a>
   <!-- Nmap -->
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Nmap_logo.svg" alt="nmap" width="50" height="50"/> 
+    <img src="https://nmap.org/images/nmap-logo.png" alt="nmap" width="50" height="50"/> 
   </a>
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Burp_Suite_Logo.svg" alt="burp-suite" width="50" height="50"/> 
-  </a>
-  <!-- John the Ripper -->
-  <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/John_the_Ripper_logo.png" alt="john-the-ripper" width="50" height="50"/> 
-  </a>
-  <!-- Hydra -->
-  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Hydra_logo.png" alt="hydra" width="50" height="50"/> 
-  </a>
-  <!-- Aircrack-ng -->
-  <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Aircrack-ng_logo.svg" alt="aircrack-ng" width="50" height="50"/> 
+    <img src="https://www.proteansec.com/wp-content/uploads/2017/04/Burp-Suite-logo.png" alt="burp-suite" width="50" height="50"/> 
   </a>
   <!-- SQLmap -->
   <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Sqlmap_logo.svg" alt="sqlmap" width="50" height="50"/> 
+    <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="50" height="50"/> 
   </a>
 </p>
 
