@@ -22,10 +22,10 @@
 │                                                                 │
 │  > Name    : Amarokdevs                                         │
 │  > Role    : Certified Ethical Hacker & Security Researcher     │
-│  > Brand   : TraceNoMore 🕵️                                     │
+│  > Brand   : TraceNoMore 🕵️                                    x
 │  > OS      : Kali Linux                                         │
-│  > Status  : Currently building KaliGPT & hacking tools        │
-│  > Mission : Break things ethically. Fix the world.            │
+│  > Status  : Currently building KaliGPT & hacking tools         │
+│  > Mission : Break things ethically. Fix the world.             │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -42,7 +42,7 @@
 <td width="50%">
 
 ### 🤖 KaliGPT
-> GPT-4 powered terminal assistant built for **Kali Linux** and ethical hackers. Ask anything, hack smarter.
+> GPT-4 powered terminal assistant built for **Kali Linux** and ethical hackers. Ask anything, hack smarter — right from your terminal.
 >
 > ![Status](https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=flat-square&labelColor=0d0d0d)
 > ![Lang](https://img.shields.io/badge/Python-00ff41?style=flat-square&labelColor=0d0d0d&logo=python&logoColor=white)
@@ -50,31 +50,31 @@
 </td>
 <td width="50%">
 
-### 🎮 Hacking Sim Game
-> A 3D **ethical hacking simulation game** — practice real-world attack/defense scenarios in a safe virtual environment.
+### 🔐 EncMyCode
+> Client-side **HTML encryptor** — double AES-256-GCM encryption, PBKDF2-SHA512, 4-pass obfuscation, anti-inspect guards & honeypot blobs. Password-only. Zero server.
 >
-> ![Status](https://img.shields.io/badge/STATUS-IN_DEV-ffaa00?style=flat-square&labelColor=0d0d0d)
-> ![Lang](https://img.shields.io/badge/Unity-00ff41?style=flat-square&labelColor=0d0d0d&logo=unity&logoColor=white)
+> ![Status](https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=flat-square&labelColor=0d0d0d)
+> ![Lang](https://img.shields.io/badge/HTML%2FJS-00ff41?style=flat-square&labelColor=0d0d0d&logo=html5&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📡 Virtual Pwnagotchi
-> A virtual **Pwnagotchi** app for Linux/Kali — WPA handshake collection with a virtual pet personality.
+### 🟩 Aternos 24/7 Bot
+> Keeps your **Minecraft server online 24/7** via Python & Termux on Android. Auto-reconnect, PM2-based monitoring, 30-second polling loop — no VPS needed.
 >
-> ![Status](https://img.shields.io/badge/STATUS-BUILDING-ffaa00?style=flat-square&labelColor=0d0d0d)
+> ![Status](https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=flat-square&labelColor=0d0d0d)
 > ![Lang](https://img.shields.io/badge/Python-00ff41?style=flat-square&labelColor=0d0d0d&logo=python&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 🌐 TraceNoMore Portfolio
-> My ethical hacking **portfolio website** — walkthroughs, tools, and research under the TraceNoMore brand.
+### 🛡️ Ethical Hacking Tools
+> A growing arsenal of **custom offensive security tools** — recon scripts, exploit aids, Wi-Fi audit tools & CTF utilities under the `amarokdevs` org.
 >
-> ![Status](https://img.shields.io/badge/STATUS-LIVE-00ff41?style=flat-square&labelColor=0d0d0d)
-> ![Lang](https://img.shields.io/badge/HTML%2FCSS%2FJS-00ff41?style=flat-square&labelColor=0d0d0d&logo=html5&logoColor=white)
+> ![Status](https://img.shields.io/badge/STATUS-BUILDING-ffaa00?style=flat-square&labelColor=0d0d0d)
+> ![Lang](https://img.shields.io/badge/Python%20%7C%20Bash-00ff41?style=flat-square&labelColor=0d0d0d&logo=gnubash&logoColor=white)
 
 </td>
 </tr>
@@ -172,10 +172,10 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   "The quieter you become, the more you are able to hear."     │
+│   "The quieter you become, the more you are able to hear."      │
 │                              — Kali Linux                       │
 │                                                                 │
-│              root@amarokdevs:~# exit                           │
+│              root@amarokdevs:~# exit                            │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
