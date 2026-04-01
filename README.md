@@ -22,7 +22,7 @@
 │                                                                 │
 │  > Name    : Amarokdevs                                         │
 │  > Role    : Certified Ethical Hacker & Security Researcher     │
-   > Brand   : TraceNoMore 🕵️                                   
+   > Brand   : TraceNoMore 🕵️                                     
 │  > OS      : Kali Linux                                         │
 │  > Status  : Currently building KaliGPT & hacking tools         │
 │  > Mission : Break things ethically. Fix the world.             │
@@ -107,7 +107,9 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0d0d)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0d0d)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d0d0d)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0d0d0d)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d0d0d)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d0d0d)
 
 </div>
