@@ -22,7 +22,7 @@
 │                                                                 │
 │  > Name    : Amarokdevs                                         │
 │  > Role    : Certified Ethical Hacker & Security Researcher     │
-│  > Brand   : TraceNoMore 🕵️                                    x
+   > Brand   : TraceNoMore 🕵️                                   
 │  > OS      : Kali Linux                                         │
 │  > Status  : Currently building KaliGPT & hacking tools         │
 │  > Mission : Break things ethically. Fix the world.             │
@@ -51,7 +51,7 @@
 <td width="50%">
 
 ### 🔐 EncMyCode
-> Client-side **HTML encryptor** — double AES-256-GCM encryption, PBKDF2-SHA512, 4-pass obfuscation, anti-inspect guards & honeypot blobs. Password-only. Zero server.
+> **HTML encryptor** with double AES-256-GCM, PBKDF2-SHA512, 4-pass obfuscation, anti-inspect & honeypot blobs on the client — plus **server-side protection** with CSP headers, network exfiltration blocking & anti-automation guards.
 >
 > ![Status](https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=flat-square&labelColor=0d0d0d)
 > ![Lang](https://img.shields.io/badge/HTML%2FJS-00ff41?style=flat-square&labelColor=0d0d0d&logo=html5&logoColor=white)
@@ -131,13 +131,9 @@
 
 <div align="center">
 
-## 🐍 CONTRIBUTION SNAKE
+## 📈 ACTIVITY GRAPH
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amarokdevs/amarokdevs/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amarokdevs/amarokdevs/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amarokdevs/amarokdevs/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amarokdevs&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120&hide_border=false&border_color=00ff41&title_color=00ff41"/>
 
 </div>
 
