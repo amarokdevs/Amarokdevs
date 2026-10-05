@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" preserveAspectRatio="none">
+  <defs>
+    <!-- soft terracotta background gradient (matches capsule-render palette) -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C15F3C"/>
+      <stop offset="50%" stop-color="#D97757"/>
+      <stop offset="100%" stop-color="#E8A27F"/>
+    </linearGradient>
+
+    <!-- shiny sweep: cream → white → cream, sliding across the text -->
+    <linearGradient id="shineGrad" x1="-100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#FAF9F5" stop-opacity="0.55"/>
+      <stop offset="48%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="52%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FAF9F5" stop-opacity="0.55"/>
+      <animate attributeName="x1" values="-100%;100%" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%"   dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="120" fill="url(#bgGrad)"/>
+  <text x="450" y="76" text-anchor="middle"
+        font-family="Lora, Georgia, 'Times New Roman', serif"
+        font-size="46" font-weight="600"
+        fill="url(#shineGrad)">Hack for good.</text>
+</svg>
