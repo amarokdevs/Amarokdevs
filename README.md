@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✦ HEADER — soft terracotta glow with twinkling sparkle -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:C15F3C,50:D97757,100:E8A27F&height=230&section=header&text=amarokdevs&fontSize=64&fontColor=FAF9F5&fontAlignY=40&desc=ethical%20hacker%20%C2%B7%20security%20researcher%20%C2%B7%20builder&descAlignY=62&descSize=18&descColor=FAF9F5&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:C15F3C,50:D97757,100:E8A27F&height=150&section=header&text=amarokdevs&fontSize=56&fontColor=FAF9F5&fontAlignY=42&desc=ethical%20hacker%20%C2%B7%20security%20researcher%20%C2%B7%20builder&descAlignY=64&descSize=16&descColor=FAF9F5&animation=twinkling"/>
 
 </div>
 
@@ -151,10 +151,6 @@ A growing arsenal of <b>custom offensive security tools</b> — recon scripts, e
 
 <img src="https://readme-typing-svg.demolab.com?font=Lora&size=18&duration=3200&pause=1200&color=D97757&center=true&vCenter=true&width=560&height=40&lines=%E2%80%9CThe+quieter+you+become%2C+the+more+you+are+able+to+hear.%E2%80%9D;Leave+no+trace.+Fix+the+world.;deepakdev.si" alt="quote"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:C15F3C,50:D97757,100:E8A27F&height=110&section=footer&animation=twinkling"/>
-
-<br/>
-
-<img width="460" src="https://placehold.co/900x200@2x/1F1E1D/FAF9F5.png?text=Hack+for+good.&font=lora" alt="Hack for good."/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:C15F3C,50:D97757,100:E8A27F&height=120&section=footer&animation=twinkling&text=Hack%20for%20good.&fontSize=32&fontColor=FAF9F5&fontAlignY=55"/>
 
 </div>
