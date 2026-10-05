@@ -6,7 +6,7 @@
 </div>
 
 <!-- ✦ HERO — logo on the right (upload logo.png next to this README), terminal types itself on the left -->
-<img align="right" width="200" src="logo.png" alt="Amarokdevs logo"/>
+<img align="right" width="200" src="logo.png" alt="Amarokdevs logo" vspace="5"/>
 
 <a href="https://deepakdev.si">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=D97757&width=520&height=190&multiline=true&repeat=false&lines=%24+whoami;%3E+amarokdevs+%C2%B7+certified+ethical+hacker;%24+cat+brand.txt;%3E+TraceNoMore+%E2%80%94+leave+no+trace;%24+.%2Fnow.sh;%3E+building+KaliGPT+%2B+hacking+tools;%24+open+https%3A%2F%2Fdeepakdev.si" alt="terminal"/>
@@ -151,6 +151,7 @@ A growing arsenal of <b>custom offensive security tools</b> — recon scripts, e
 
 <img src="https://readme-typing-svg.demolab.com?font=Lora&size=18&duration=3200&pause=1200&color=D97757&center=true&vCenter=true&width=560&height=40&lines=%E2%80%9CThe+quieter+you+become%2C+the+more+you+are+able+to+hear.%E2%80%9D;Leave+no+trace.+Fix+the+world.;deepakdev.si" alt="quote"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:C15F3C,50:D97757,100:E8A27F&height=120&section=footer&animation=twinkling&text=Hack%20for%20good.&fontSize=32&fontColor=FAF9F5&fontAlignY=55"/>
+<!-- ✦ SHINY FOOTER — custom SVG with slow shine sweep -->
+<img width="100%" src="hack-for-good.svg" alt="Hack for good."/>
 
 </div>
