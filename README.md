@@ -5,8 +5,8 @@
 
 </div>
 
-<!-- ✦ HERO — round avatar on the right, terminal types itself on the left -->
-<img align="right" width="170" src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Famarokdevs.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" alt="Amarokdevs"/>
+<!-- ✦ HERO — logo on the right (upload logo.png next to this README), terminal types itself on the left -->
+<img align="right" width="200" src="logo.png" alt="Amarokdevs logo"/>
 
 <a href="https://deepakdev.si">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=D97757&width=520&height=190&multiline=true&repeat=false&lines=%24+whoami;%3E+amarokdevs+%C2%B7+certified+ethical+hacker;%24+cat+brand.txt;%3E+TraceNoMore+%E2%80%94+leave+no+trace;%24+.%2Fnow.sh;%3E+building+KaliGPT+%2B+hacking+tools;%24+open+https%3A%2F%2Fdeepakdev.si" alt="terminal"/>
@@ -125,14 +125,6 @@ A growing arsenal of <b>custom offensive security tools</b> — recon scripts, e
 
 <img width="98%" src="https://streak-stats.demolab.com/?user=amarokdevs&hide_border=true&border_radius=16&background=191919&ring=D97757&fire=D97757&currStreakNum=FAF9F5&sideNums=D97757&currStreakLabel=D97757&sideLabels=B0AEA5&dates=B0AEA5"/>
 
-<br/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=amarokdevs&theme=gruvbox&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=amarokdevs&custom_title=Contribution%20Pulse&bg_color=191919&color=D97757&line=D97757&point=FAF9F5&area=true&area_color=D97757&hide_border=true&radius=16&title_color=D97757"/>
-
 </div>
 
 <br/>
@@ -153,12 +145,16 @@ A growing arsenal of <b>custom offensive security tools</b> — recon scripts, e
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=amarokdevs&label=VISITORS&color=D97757&style=flat-square&labelColor=191919"/>
+<img src="https://komarev.com/ghpvc/?username=amarokdevs&label=VISITORS&color=D97757&style=for-the-badge&labelColor=191919&abbreviated=true"/>
 
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Lora&size=18&duration=3200&pause=1200&color=D97757&center=true&vCenter=true&width=560&height=40&lines=%E2%80%9CThe+quieter+you+become%2C+the+more+you+are+able+to+hear.%E2%80%9D;Leave+no+trace.+Fix+the+world.;deepakdev.si" alt="quote"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:C15F3C,50:D97757,100:E8A27F&height=130&section=footer&text=TraceNoMore&fontSize=30&fontColor=FAF9F5&fontAlignY=68&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:C15F3C,50:D97757,100:E8A27F&height=110&section=footer&animation=twinkling"/>
+
+<br/>
+
+<img width="460" src="https://placehold.co/900x200@2x/1F1E1D/FAF9F5.png?text=Hack+for+good.&font=lora" alt="Hack for good."/>
 
 </div>
