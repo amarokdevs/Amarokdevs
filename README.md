@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- ✦ HEADER — soft terracotta glow with twinkling sparkle -->
+<!-- ✦ HEADER — Claude terracotta glow with twinkling sparkle -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:C15F3C,50:D97757,100:E8A27F&height=150&section=header&text=amarokdevs&fontSize=56&fontColor=FAF9F5&fontAlignY=42&desc=ethical%20hacker%20%C2%B7%20security%20researcher%20%C2%B7%20builder&descAlignY=64&descSize=16&descColor=FAF9F5&animation=twinkling"/>
 
 </div>
 
-<!-- ✦ HERO — logo on the right (upload logo.png next to this README), terminal types itself on the left -->
+<!-- ✦ HERO — logo on the right (keep logo.png next to this README), terminal types itself on the left -->
 <img align="right" width="200" src="logo.png" alt="Amarokdevs logo" vspace="5"/>
 
 <a href="https://deepakdev.si">
@@ -20,30 +20,62 @@
 
 <p align="center">
   <a href="https://deepakdev.si"><b>Website</b></a> &nbsp;✦&nbsp;
-  <a href="#projects">Projects</a> &nbsp;✦&nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp;✦&nbsp;
-  <a href="#stats">Stats</a> &nbsp;✦&nbsp;
-  <a href="#connect">Connect</a>
+  <a href="#about">About</a> &nbsp;✦&nbsp;
+  <a href="#core-toolkit">Toolkit</a> &nbsp;✦&nbsp;
+  <a href="#selected-work">Work</a> &nbsp;✦&nbsp;
+  <a href="#activity">Activity</a> &nbsp;✦&nbsp;
+  <a href="#lets-connect">Connect</a>
 </p>
 
 <br/>
 
 <div align="center">
 
-| 🎓 Role | 🕵️ Brand | 🐧 Home Base | 🛠️ Now Building |
-|:---:|:---:|:---:|:---:|
-| Certified Ethical Hacker & Security Researcher | **TraceNoMore** | Kali Linux | KaliGPT & hacking tools |
+## About
 
-<i>“Break things ethically. Fix the world.”</i>
+> *“Break things ethically. Fix the world.”*
+
+| 🎓 Role | 🕵️ Brand | 🛠️ Now Building |
+|:---:|:---:|:---:|
+| Certified Ethical Hacker & Security Researcher | **TraceNoMore** | KaliGPT & hacking tools |
+
+<sub>🌐 <a href="https://deepakdev.si">deepakdev.si</a> &nbsp;·&nbsp; <i>Small, useful tools over vague claims.</i></sub>
 
 </div>
 
 <br/>
 
 <div align="center">
+
+<sub>✦ &nbsp; D A I L Y &nbsp; D R I V E R S &nbsp; ✦</sub>
+
+## Core toolkit
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,bash,js,html,css&perline=5"/>
+
+<br/><br/>
+
+**Offensive Security — by phase**
+
+| Phase | Arsenal |
+|:---|:---|
+| 🔍 **Recon** | `Nmap` · custom recon scripts |
+| 🕸️ **Web** | `Burp Suite` · `SQLMap` |
+| 📡 **Network** | `Wireshark` · Wi-Fi audit tools |
+| 💥 **Exploitation** | `Metasploit` · exploit aids |
+| 🏁 **Practice** | CTF utilities |
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <sub>✦ &nbsp; W H A T &nbsp; I ' M &nbsp; B U I L D I N G &nbsp; ✦</sub>
 
-## Projects
+## Selected work
 
 <sub>tap a project to expand</sub>
 
@@ -52,7 +84,7 @@
 <details open>
 <summary><b>🤖 KaliGPT</b> &nbsp;·&nbsp; 🟢 <code>ACTIVE</code></summary>
 <br/>
-GPT-4 powered terminal assistant built for <b>Kali Linux</b> and ethical hackers. Ask anything, hack smarter — right from your terminal.
+GPT-4 powered terminal assistant built for <b>ethical hackers</b>. Ask anything, hack smarter — right from your terminal.
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=py" height="44"/>
 </details>
@@ -68,7 +100,7 @@ GPT-4 powered terminal assistant built for <b>Kali Linux</b> and ethical hackers
 <details>
 <summary><b>🟩 Aternos 24/7 Bot</b> &nbsp;·&nbsp; 🟢 <code>ACTIVE</code></summary>
 <br/>
-Keeps your <b>Minecraft server online 24/7</b> via Python &amp; Termux on Android. Auto-reconnect, PM2-based monitoring, 30-second polling loop — no VPS needed.
+Keeps your <b>Minecraft server online 24/7</b> with Python. Auto-reconnect, PM2-based monitoring, 30-second polling loop — no VPS needed.
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=py,bash" height="44"/>
 </details>
@@ -78,45 +110,16 @@ Keeps your <b>Minecraft server online 24/7</b> via Python &amp; Termux on Androi
 <br/>
 A growing arsenal of <b>custom offensive security tools</b> — recon scripts, exploit aids, Wi-Fi audit tools &amp; CTF utilities under the <code>amarokdevs</code> org.
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=py,bash,linux" height="44"/>
+<img src="https://skillicons.dev/icons?i=py,bash" height="44"/>
 </details>
 
 <br/>
 
 <div align="center">
-<sub>✦ &nbsp; D A I L Y &nbsp; D R I V E R S &nbsp; ✦</sub>
 
-## Toolkit
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,bash,js,html,css&perline=5"/>
-
-**Platforms & Workflow**
-
-<img src="https://skillicons.dev/icons?i=linux,windows,apple,androidstudio,vscode,github&perline=6"/>
-
-<br/>
-
-**Offensive Security — by phase**
-
-| Phase | Arsenal |
-|:---|:---|
-| 🔍 **Recon** | `Nmap` · custom recon scripts |
-| 🕸️ **Web** | `Burp Suite` · `SQLMap` |
-| 📡 **Network** | `Wireshark` · Wi-Fi audit tools |
-| 💥 **Exploitation** | `Metasploit` · exploit aids |
-| 🏁 **Practice** | CTF utilities |
-| 🐉 **Base OS** | `Kali Linux` |
-
-</div>
-
-<br/>
-
-<div align="center">
 <sub>✦ &nbsp; T H E &nbsp; N U M B E R S &nbsp; ✦</sub>
 
-## Stats
+## Activity
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amarokdevs&show_icons=true&hide_border=true&border_radius=16&bg_color=191919&title_color=D97757&icon_color=D97757&text_color=FAF9F5&ring_color=D97757&custom_title=Amarokdevs%20%C2%B7%20Stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarokdevs&layout=donut&hide_border=true&border_radius=16&bg_color=191919&title_color=D97757&text_color=FAF9F5&langs_count=8&custom_title=Top%20Languages"/>
@@ -125,14 +128,19 @@ A growing arsenal of <b>custom offensive security tools</b> — recon scripts, e
 
 <img width="98%" src="https://streak-stats.demolab.com/?user=amarokdevs&hide_border=true&border_radius=16&background=191919&ring=D97757&fire=D97757&currStreakNum=FAF9F5&sideNums=D97757&currStreakLabel=D97757&sideLabels=B0AEA5&dates=B0AEA5"/>
 
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=amarokdevs&bg_color=191919&color=FAF9F5&line=D97757&point=FAF9F5&area=true&area_color=D97757&hide_border=true&radius=16"/>
+
 </div>
 
 <br/>
 
 <div align="center">
+
 <sub>✦ &nbsp; L E T ' S &nbsp; T A L K &nbsp; ✦</sub>
 
-## Connect
+## Let’s connect
 
 <a href="https://deepakdev.si"><img src="https://img.shields.io/badge/🌐_Website-deepakdev.si-191919?style=for-the-badge&labelColor=D97757"/></a>
 <a href="https://twitter.com/amarokdevs"><img src="https://img.shields.io/badge/🐦_Twitter-@amarokdevs-191919?style=for-the-badge&labelColor=D97757"/></a>
@@ -151,7 +159,7 @@ A growing arsenal of <b>custom offensive security tools</b> — recon scripts, e
 
 <img src="https://readme-typing-svg.demolab.com?font=Lora&size=18&duration=3200&pause=1200&color=D97757&center=true&vCenter=true&width=560&height=40&lines=%E2%80%9CThe+quieter+you+become%2C+the+more+you+are+able+to+hear.%E2%80%9D;Leave+no+trace.+Fix+the+world.;deepakdev.si" alt="quote"/>
 
-<!-- ✦ SHINY FOOTER — custom SVG with slow shine sweep -->
+<!-- ✦ SHINY FOOTER — custom SVG with slow shine sweep (keep hack-for-good.svg next to this README) -->
 <img width="100%" src="hack-for-good.svg" alt="Hack for good."/>
 
 </div>
